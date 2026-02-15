@@ -45,7 +45,6 @@ int main()
     {
         sum += matrix[i][i];
     }
-
     printf("%d", sum);
 
     return 0;
