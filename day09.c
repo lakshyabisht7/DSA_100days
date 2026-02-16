@@ -32,7 +32,6 @@ int main()
         left++;
         right--;
     }
-
     printf("%s",s);
 
     return 0;
